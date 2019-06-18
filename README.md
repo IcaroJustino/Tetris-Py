@@ -4,4 +4,4 @@ O jogo é um simples jogo de Tetris em que você controla as peças com as setas
 Key Left --> Move para esquerda
 Key Right --> Move para a Direita
 Key up --> gira a peça 
-Key Down --> Faz a peça descer um pixel
+Key Down --> Faz a peça descer um pixel.
